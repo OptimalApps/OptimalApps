@@ -1,5 +1,5 @@
 # 👋 Hey there fellow tech enthusiast...
-While Optimal does have an official GitHub account that you're reading about right now, most there are no public repositories accessible from this account. Instead, Optimal repositories can be found via Optimal's Lead Dev, [Gabe Fletcher](https://github.com/gabefletch) on GitHub.
+While Optimal does have an official GitHub account that you're reading about right now, most there are no public repositories accessible from this account. Instead, Optimal-related repositories can be found via Optimal's Lead Dev, [Gabe Fletcher](https://github.com/gabefletch) on GitHub.
 
 We recommend using this handy guide typed down below:
 ### For Optimal Documentation
